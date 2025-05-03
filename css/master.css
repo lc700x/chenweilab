@@ -157,15 +157,16 @@ h4 {
 
 footer {
   background: #ffffff;
-  height: 120px;
+  height: 100px;
   margin: 50px auto 0;
   padding: 5px 0;
   box-shadow: 0 -1px 2px 0 rgba(0, 0, 0, .07);
 }
 
 footer .foot {
-  width: 480px;
+  width: 280px;
   margin: 0 auto;
+  text-align: center;
 }
 
 footer .foot img {
@@ -779,7 +780,7 @@ footer .foot p {
 
   footer {
     padding: 20px auto;
-    height: 170px;
+    height: 80px;
   }
 
   footer .foot {
